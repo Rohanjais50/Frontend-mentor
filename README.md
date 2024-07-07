@@ -1,1 +1,1 @@
-# Frontend-mentor
+Landing page project under frontend mentor
